@@ -135,7 +135,7 @@ The user can:
 
 ## 🖥️ Application Screenshot
 
-![Email Spam Detection]("C:\Users\nisha\OneDrive\Pictures\Screenshots\email.png" "screenshots\email.png")
+![Email Spam Detection]("C:\Users\nisha\OneDrive\Pictures\Screenshots\email.png")
 
 ## 📁 Project Structure
 
