@@ -135,7 +135,7 @@ The user can:
 
 ## 🖥️ Application Screenshot
 
-![Email Spam Detection]("C:\Users\nisha\OneDrive\Desktop\Documents\ExcelR_Python Practic\Naivebayes\screenshot\email.png")
+![Email Spam Detection](screenshot/email.png)
 
 ## 📁 Project Structure
 
@@ -149,7 +149,7 @@ Email-Spam-Detection/
 ├── tfidf.pkl
 ├── README.md
 │
-└── screenshots/
+└── screenshot/
     └── email.png
 ```
 
